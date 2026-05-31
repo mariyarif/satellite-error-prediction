@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
-scikit-learn
-tensorflow
-scipy
 plotly
+scipy
+scikit-learn
+pyarrow
+tensorflow
